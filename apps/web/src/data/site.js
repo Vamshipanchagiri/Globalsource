@@ -1,9 +1,9 @@
 export const COMPANY = {
-  name: 'GlobalSource Solutions',
+  name: 'GlobalSource Technologies',
   tagline: 'IT Services & Technology Solutions',
   email: 'helpdesk@globalsourcetechnologies.in',
   site: 'https://globalsourcetechnologies.in',
-  location: 'Hyderabad, Telangana, India',
+  location: '115/1, ISB Rd, Financial District, Gachibowli, Hyderabad, Telangana, India',
 };
 
 export const INDUSTRIES = [
